@@ -1,0 +1,8 @@
+{
+  "partitions": [{
+    "topic": "holidays-raw",
+    "partition": 0,
+    "offset": -1
+  }],
+  "version": 1
+}
